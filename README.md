@@ -1,6 +1,6 @@
 # Unstaggered vs Staggered
 
-[The Jupyter notebook]() compares the phase speed and group velocity of the linearlized one-dimentional shallow water equations between unstaggered and staggered meshes in the limit of $\Delta t\rightarrow 0$.
+[The Jupyter notebook](http://nbviewer.jupyter.org/github/tenomoto/staggered/blob/master/Staggered.ipynb) compares the phase speed and group velocity of the linearlized one-dimentional shallow water equations between unstaggered and staggered meshes in the limit of $\Delta t\rightarrow 0$.
 
 ## Reference
 
